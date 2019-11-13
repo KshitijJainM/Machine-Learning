@@ -1,2 +1,2 @@
 # Machine-Learning
-some of basic implementation of machine learning
+some basic implementation of machine learning
